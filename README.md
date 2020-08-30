@@ -13,3 +13,5 @@ Data Visualization Project with flutter
 All Companies' Page            |  Company Details
 :-------------------------:|:-------------------------:
 <img src="https://github.com/nusayer/Data-Visualization-With-Flutter/blob/master/Screenshot_20200830-083002%5B1%5D.jpg" width="700">  |  <img src="https://github.com/nusayer/Data-Visualization-With-Flutter/blob/master/Screenshot_20200830-083012%5B1%5D.jpg" width="700">
+
+![](20200830_082907[1].gif)
