@@ -12,4 +12,4 @@ Data Visualization Project with flutter
 
 Login Screen            |  Quiz Page
 :-------------------------:|:-------------------------:
-<img src="https://github.com/nusayer/Data-Visualization-With-Flutter/blob/master/Screenshot_20200830-083012%5B1%5D.jpg" width="700">  |  <img src="https://github.com/nusayer/Data-Visualization-With-Flutter/blob/master/Screenshot_20200830-083012%5B1%5D.jpg" width="700">
+<img src="https://github.com/nusayer/Data-Visualization-With-Flutter/blob/master/Screenshot_20200830-083002%5B1%5D.jpg" width="700">  |  <img src="https://github.com/nusayer/Data-Visualization-With-Flutter/blob/master/Screenshot_20200830-083012%5B1%5D.jpg" width="700">
