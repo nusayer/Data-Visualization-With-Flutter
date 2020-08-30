@@ -10,6 +10,6 @@ Data Visualization Project with flutter
 1) JSON file uploaded to firebase, which acted as database
 2) Line chart and animation used with syncfusion
 
-Login Screen            |  Quiz Page
+All Companies' Page            |  Company Details
 :-------------------------:|:-------------------------:
 <img src="https://github.com/nusayer/Data-Visualization-With-Flutter/blob/master/Screenshot_20200830-083002%5B1%5D.jpg" width="700">  |  <img src="https://github.com/nusayer/Data-Visualization-With-Flutter/blob/master/Screenshot_20200830-083012%5B1%5D.jpg" width="700">
