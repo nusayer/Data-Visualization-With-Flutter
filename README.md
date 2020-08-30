@@ -16,6 +16,6 @@ All Companies' Page            |  Company Details
 
 # Demo
 <p align="center">
-  ![](20200830_082907[1].gif)
-</p>
+ <img src = "https://github.com/nusayer/Data-Visualization-With-Flutter/blob/master/20200830_082907%5B1%5D.gif">
+  /p>
 
