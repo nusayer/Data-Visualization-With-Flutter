@@ -1,16 +1,15 @@
 # stock
 
-A new Flutter project.
+Data Visualization Project with flutter
 
-## Getting Started
+## Features
+1) JSON data fetched from the firebase realtime database
+2) Data Visualization done with the help of Syncfusion libary
 
-This project is a starting point for a Flutter application.
+## Tools Used
+1) JSON file uploaded to firebase, which acted as database
+2) Line chart and animation used with syncfusion
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Login Screen            |  Quiz Page
+:-------------------------:|:-------------------------:
+<img src="https://github.com/nusayer/Data-Visualization-With-Flutter/master/Screenshot_20200830-083002[1].jpg" width="700">  |  <img src="https://github.com/nusayer/Data-Visualization-With-Flutter/master/Screenshot_20200830-083012[1].jpg" width="700">
