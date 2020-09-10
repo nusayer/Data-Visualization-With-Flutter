@@ -19,4 +19,8 @@ All Companies' Page            |  Company Details
 <p align="center">
  <img src = "https://github.com/nusayer/Data-Visualization-With-Flutter/blob/master/20200830_082907%5B1%5D.gif">
  
+#        Apk file
+
+[Here is the link of the apk file](https://drive.google.com/file/d/1hhrhDCvDWmWeFYvwD-W3ladk12QMSF1x/view?usp=drive_web)
+ 
 
